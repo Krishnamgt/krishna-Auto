@@ -1,0 +1,10 @@
+
+Deploy using quick strategy
+frontend/Magento/blank/en_US            0/2181              >--------------------------- 0%     < 1 sec
+[1A[2Kfrontend/Magento/blank/en_US            778/2181            =========>------------------ 35%    1 sec
+[1A[2Kfrontend/Magento/blank/en_US            2181/2181           ============================ 100%   1 sec               
+adminhtml/Magento/backend/en_US         80/2881             >--------------------------- 2%     1 sec
+[1A[2K[1A[2Kfrontend/Magento/blank/en_US            2181/2181           ============================ 100%   1 sec               
+adminhtml/Magento/backend/en_US         1547/2881           ===============>------------ 53%    2 secs
+
+Execution time: 3.6651549339294
