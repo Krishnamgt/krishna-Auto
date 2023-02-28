@@ -3,7 +3,7 @@
     <default>
         <mgt_varnish>
             <module>
-                <server_list>172.26.1.59</server_list>
+                <server_list>172.26.1.209</server_list>
                 <server_port>6081</server_port>
                 <debug_mode>0</debug_mode>
                 <excluded_urls><![CDATA[
